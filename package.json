@@ -1,6 +1,6 @@
 {
   "name": "prestashop-cache-clear",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Clear PrestaShop 1.6 cache",
   "main": "index.js",
   "scripts": {
