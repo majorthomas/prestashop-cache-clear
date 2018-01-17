@@ -1,14 +1,14 @@
 {
   "name": "prestashop-cache-clear",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Clear PrestaShop 1.6 cache",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "majorthomas",
+  "author": "thomas-keck",
   "license": "MIT",
-  "repository": "majorthomas/prestashop-cache-clear",
+  "repository": "thomas-keck/prestashop-cache-clear",
   "keywords": [
     "prestashop",
     "cache"
